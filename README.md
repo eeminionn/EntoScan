@@ -1,6 +1,6 @@
 # 🦋 EntoScan  
 Digitalización 3D de insectos endémicos mediante fotogrametría y escaneo infrarrojo  
-**Proyecto académico — Diseño en Interacción Digital — UDD**
+**Proyecto UDD - 2025**
 
 ---
 
@@ -25,7 +25,6 @@ En Chile, más del **40%** de los insectos endémicos está amenazado o en pelig
 - Digitalizar insectos endémicos con escaneo 3D de alta fidelidad.  
 - Preservar estructuras anatómicas importantes.  
 - Crear una colección digital abierta y educativa.  
-- Desarrollar un pipeline basado en fotogrametría + EDOF.  
 - Proyectar visualización educativa mediante **realidad aumentada (AR)**.
 
 ---
@@ -53,9 +52,6 @@ Referentes utilizados:
   <img src="fotos/raptor_2.jpeg" width="45%">
 </p>
 
----
-
-### 2. **Fotogrametría + EDOF**
 
 <p align="center">
   <img src="fotos/escaneo_1.jpeg" width="45%">
@@ -64,7 +60,7 @@ Referentes utilizados:
 
 ---
 
-### 3. **Postprocesado**
+### 2. **Postprocesado**
 
 - Limpieza de malla  
 - Fusión de escaneos  
@@ -107,5 +103,35 @@ El proyecto considera:
 
 ---
 
-## 📁 Estructura del repositorio
+## 👥 Equipo
+
+**Emilio Abarca**  
+**María Paz Lagos**  
+**Makarena Quezada**
+
+**Profesor:** Gonzalo Anais  
+**Ayudante:** Piero Pedemonte  
+**Curso:** XTECC24-1 — *Escáner 3D: Captura la realidad y crea tu espacio digital*  
+**Universidad del Desarrollo**
+
+---
+
+## 📚 Referencias (Vancouver)
+
+1. Veen L, Donnelly G, Wilson M. scAnt: Open-source 3D scanning platform for entomology. Entomology Journal. 2020;25(4):43–57.  
+2. Weller S. Toward a brighter future for entomological collections. Ann Entomol Soc Am. 2023;116(6):329–330.  
+3. Jerez V, Zúñiga-Reinoso Á, Muñoz-Escobar C, Pizarro-Araya J. Acciones y avances sobre la conservación de insectos en Chile. Gayana. 2015;79(1):1–3.  
+4. The IUCN Red List of Threatened Species. Disponible en: https://www.iucnredlist.org/es  
+5. Ruz L. Proyecto de digitalización de abejas nativas de Chile. Pontificia Universidad Católica de Valparaíso.  
+6. Insect Brain Database. Disponible en: https://insectbraindb.org  
+
+---
+
+## 🧾 Licencia
+
+Este repositorio es público y su contenido puede utilizarse con fines académicos, educativos y de investigación.  
+**No se permite el uso comercial de los modelos 3D** sin autorización del equipo desarrollador.
+
+---
+
 
