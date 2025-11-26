@@ -63,8 +63,9 @@ Referentes utilizados:
 ### 2. **Postprocesado**
 
 - Limpieza de malla  
+- Reparación del modelo en **Meshmixer** (corrección de agujeros, suavizado y remallado)  
 - Fusión de escaneos  
-- Texturizado UV  
+- Postprocesado y texturizado final en **Blender**  
 - Exportación en `.obj` / `.stl`
 
 <p align="center">
