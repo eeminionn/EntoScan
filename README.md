@@ -79,9 +79,6 @@ Referentes utilizados:
 
 ## 🦾 Resultados
 
-<p align="center">
-  <img src="fotos/render_1.jpeg" width="60%">
-</p>
 
 <p align="center">
   <img src="fotos/render.gif" width="70%">
