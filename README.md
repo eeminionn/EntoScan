@@ -7,7 +7,7 @@ Digitalización 3D de insectos endémicos mediante fotogrametría y escaneo infr
 ## 🖼️ Vista general del proyecto
 
 <p align="center">
-  <img src="fotos/portada.jpeg" width="70%">
+  <img src="fotos/portada.jpg" width="70%">
 </p>
 
 ---
@@ -72,7 +72,7 @@ Referentes utilizados:
 - Exportación en `.obj` / `.stl`
 
 <p align="center">
-  <img src="fotos/render_1.jpeg" width="70%">
+  <img src="fotos/render_1.png" width="70%">
 </p>
 
 ---
@@ -82,6 +82,14 @@ Referentes utilizados:
 <p align="center">
   <img src="fotos/render_1.jpeg" width="60%">
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=F-YNyigm6BM" target="_blank">
+    <img src="https://img.youtube.com/vi/F-YNyigm6BM/maxresdefault.jpg" width="70%" style="border-radius:10px;">
+  </a>
+</p>
+
+
 
 - Modelos anatómicos detallados  
 - Texturas fieles al espécimen  
