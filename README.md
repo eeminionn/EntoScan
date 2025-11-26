@@ -84,14 +84,11 @@ Referentes utilizados:
 </p>
 
 <p align="center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/F-YNyigm6BM" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
-  </iframe>
+  <a href="https://www.youtube.com/watch?v=F-YNyigm6BM" target="_blank">
+    <img src="https://img.youtube.com/vi/F-YNyigm6BM/maxresdefault.jpg" width="70%">
+  </a>
 </p>
+
 
 - Modelos anatómicos detallados  
 - Texturas fieles al espécimen  
