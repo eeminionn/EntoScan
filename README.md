@@ -85,9 +85,10 @@ Referentes utilizados:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=F-YNyigm6BM" target="_blank">
-    <img src="https://img.youtube.com/vi/F-YNyigm6BM/maxresdefault.jpg" width="70%">
+    <img src="https://img.youtube.com/vi/F-YNyigm6BM/maxresdefault.jpg" width="70%" style="border-radius:10px;">
   </a>
 </p>
+
 
 
 - Modelos anatómicos detallados  
