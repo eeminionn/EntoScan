@@ -32,7 +32,7 @@ En Chile, más del **40%** de los insectos endémicos está amenazado o en pelig
 ## 📚 Estado del arte
 
 <p align="center">
-  <img src="fotos/estado_del_arte.jpeg" width="80%">
+  <img src="fotos/estado_del_arte.jpg" width="80%">
 </p>
 
 Referentes utilizados:
