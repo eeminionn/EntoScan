@@ -7,7 +7,7 @@ Digitalización 3D de insectos endémicos mediante fotogrametría y escaneo infr
 ## 🖼️ Vista general del proyecto
 
 <p align="center">
-  <img src="photos/general/portada.jpeg" width="70%">
+  <img src="fotos/portada.jpeg" width="70%">
 </p>
 
 ---
@@ -33,7 +33,7 @@ En Chile, más del **40%** de los insectos endémicos está amenazado o en pelig
 ## 🧬 Fundamentación científica
 
 <p align="center">
-  <img src="photos/general/morfo.jpeg" width="70%">
+  <img src="fotos/morfo.jpeg" width="70%">
 </p>
 
 La identificación de insectos depende de rasgos morfológicos finos, difíciles de observar sin equipamiento especializado. La digitalización 3D ofrece una alternativa segura y de alta precisión.
@@ -48,7 +48,7 @@ Especialidad: entomología e identificación morfológica.
 ## 📚 Estado del arte
 
 <p align="center">
-  <img src="photos/general/estado_del_arte.jpeg" width="80%">
+  <img src="fotos/estado_del_arte.jpeg" width="80%">
 </p>
 
 Referentes utilizados:
@@ -64,8 +64,10 @@ Referentes utilizados:
 
 ### **1. Selección del espécimen**
 <p align="center">
-  <img src="photos/general/seleccion.jpeg" width="60%">
+  <img src="fotos/seleccion.jpeg" width="60%">
 </p>
+
+---
 
 ### **2. Manipulación segura**
 Manipulación mínima para evitar daños en alas, escamas y extremidades.
@@ -75,16 +77,16 @@ Manipulación mínima para evitar daños en alas, escamas y extremidades.
 ### **3. Escaneo con Creality Raptor**
 
 <p align="center">
-  <img src="photos/proceso_raptor/raptor_1.jpeg" width="45%">
-  <img src="photos/proceso_raptor/raptor_2.jpeg" width="45%">
+  <img src="fotos/raptor_1.jpeg" width="45%">
+  <img src="fotos/raptor_2.jpeg" width="45%">
 </p>
 
 ---
 
 ### **4. Fotogrametría + EDOF**
 <p align="center">
-  <img src="photos/escaneos/escaneo_1.jpeg" width="45%">
-  <img src="photos/escaneos/escaneo_2.jpeg" width="45%">
+  <img src="fotos/escaneo_1.jpeg" width="45%">
+  <img src="fotos/escaneo_2.jpeg" width="45%">
 </p>
 
 ---
@@ -96,8 +98,8 @@ Manipulación mínima para evitar daños en alas, escamas y extremidades.
 - Exportación en `.obj` / `.stl`  
 
 <p align="center">
-  <img src="photos/renders/render_1.jpeg" width="45%">
-  <img src="photos/renders/render_2.jpeg" width="45%">
+  <img src="fotos/render_1.jpeg" width="45%">
+  <img src="fotos/render_2.jpeg" width="45%">
 </p>
 
 ---
@@ -105,7 +107,7 @@ Manipulación mínima para evitar daños en alas, escamas y extremidades.
 ## 🦾 Resultados
 
 <p align="center">
-  <img src="photos/renders/modelos_finales.jpeg" width="75%">
+  <img src="fotos/modelos_finales.jpeg" width="75%">
 </p>
 
 - 4 modelos completos y texturizados  
@@ -118,7 +120,7 @@ Manipulación mínima para evitar daños en alas, escamas y extremidades.
 ## 📱 Realidad aumentada (AR)
 
 <p align="center">
-  <img src="photos/ar/preview_ar.jpeg" width="60%">
+  <img src="fotos/preview_ar.jpeg" width="60%">
 </p>
 
 Se proyecta:
@@ -133,39 +135,4 @@ Archivos AR en `/ar`.
 ---
 
 ## 📁 Estructura del repositorio
-
-
----
-
-## 👥 Equipo
-
-**Emilio Abarca**  
-**María Paz Lagos**  
-**Makarena Quezada**
-
-**Profesor:** Gonzalo Anais  
-**Ayudante:** Piero Pedemonte  
-**Curso:** XTECC24-1 — *Escáner 3D: Captura la realidad y crea tu espacio digital*  
-**Universidad del Desarrollo**
-
----
-
-## 📚 Referencias (Vancouver)
-
-1. Veen L, Donnelly G, Wilson M. scAnt: Open-source 3D scanning platform for entomology. Entomology Journal. 2020;25(4):43–57.  
-2. Weller S. Toward a brighter future for entomological collections. Ann Entomol Soc Am. 2023;116(6):329–330.  
-3. Jerez V, Zúñiga-Reinoso Á, Muñoz-Escobar C, Pizarro-Araya J. Acciones y avances sobre la conservación de insectos en Chile. Gayana. 2015;79(1):1–3.  
-4. The IUCN Red List of Threatened Species. Disponible en: https://www.iucnredlist.org/es  
-5. Ruz L. Proyecto de digitalización de abejas nativas de Chile. Pontificia Universidad Católica de Valparaíso.  
-6. Insect Brain Database. Disponible en: https://insectbraindb.org  
-
----
-
-## 🧾 Licencia
-
-Este repositorio es público y su contenido puede utilizarse con fines académicos, educativos y de investigación.  
-**No se permite el uso comercial de los modelos 3D** sin autorización del equipo desarrollador.
-
----
-
 
