@@ -4,9 +4,17 @@ Digitalización 3D de insectos endémicos mediante fotogrametría y escaneo infr
 
 ---
 
+## 🖼️ Vista general del proyecto
+
+<p align="center">
+  <img src="photos/general/portada.jpeg" width="70%">
+</p>
+
+---
+
 ## 📘 Sobre el proyecto
 
-**EntoScan** busca preservar insectos endémicos chilenos mediante **escaneo 3D**, **fotogrametría** y **apilamiento de enfoque (EDOF)**, generando una colección digital accesible para investigación, educación y divulgación científica.
+**EntoScan** busca preservar insectos endémicos chilenos mediante **escaneo 3D**, **fotogrametría** y **EDOF**, generando una colección digital accesible para investigación, educación y divulgación científica.
 
 En Chile, más del **40%** de los insectos endémicos está amenazado o en peligro de extinción. La digitalización 3D permite conservar estas especies frágiles sin dañarlas, facilitando su estudio y acceso público.
 
@@ -14,96 +22,118 @@ En Chile, más del **40%** de los insectos endémicos está amenazado o en pelig
 
 ## 🎯 Objetivos
 
-- Digitalizar insectos endémicos mediante escaneo 3D de alta fidelidad.
-- Conservar estructuras anatómicas clave: antenas, patas, élitros, aparato bucal.
-- Crear una colección digital abierta, educativa y científicamente útil.
-- Desarrollar un pipeline basado en fotogrametría + EDOF.
-- Proyectar una futura experiencia en **realidad aumentada (AR)**.
+- Digitalizar insectos endémicos con escaneo 3D de alta fidelidad.  
+- Conservar estructuras anatómicas críticas.  
+- Crear una colección digital abierta de libre acceso.  
+- Integrar un pipeline basado en fotogrametría + EDOF.  
+- Proyectar visualización educativa mediante **realidad aumentada (AR)**.
 
 ---
 
 ## 🧬 Fundamentación científica
 
+<p align="center">
+  <img src="photos/general/morfo.jpeg" width="70%">
+</p>
+
 La identificación de insectos depende de rasgos morfológicos finos, difíciles de observar sin equipamiento especializado. La digitalización 3D ofrece una alternativa segura y de alta precisión.
 
 Este proyecto contó con retroalimentación científica de:
 
-**Melanie Clara Nagel Strasser**  
-Estudiante de Biología – Pontificia Universidad Católica de Chile  
-Especialidad: entomología e identificación morfológica
-
-Sus aportes guiaron criterios sobre:
-- manipulación segura de especímenes frágiles,
-- captura anatómica detallada,
-- consideraciones éticas de trabajo con colecciones entomológicas.
+**Melanie Clara Nagel Strasser — Biología (PUC)**  
+Especialidad: entomología e identificación morfológica.
 
 ---
 
-## 🧠 Estado del arte
+## 📚 Estado del arte
 
-Referentes clave utilizados:
-- **scAnt** — Plataforma open-source de escaneo macro 3D.
-- **Insect Brain Database** — Modelos 3D neuronales de insectos.
-- **Digitalización de abejas nativas (PUCV)** — Fotogrametría de alta resolución.
-- **Pokédex** — Referente conceptual para organización de modelos + fichas.
+<p align="center">
+  <img src="photos/general/estado_del_arte.jpeg" width="80%">
+</p>
 
-Estos casos entregan métodos, escalas y lógicas de clasificación visual relevantes para fortalecer EntoScan.
+Referentes utilizados:
+
+- **scAnt** – Plataforma open-source para escaneo macro 3D.  
+- **Insect Brain Database** – Modelos neuronales 3D.  
+- **Digitalización de abejas nativas (PUCV)** – Fotogrametría avanzada.  
+- **Pokédex** – Referente conceptual visual/interactivo.
 
 ---
 
 ## 🔍 Metodología
 
-### **1. Selección del espécimen**  
-Insectos preservados en colecciones educativas y museos, priorizando muestras no vivas.
+### **1. Selección del espécimen**
+<p align="center">
+  <img src="photos/general/seleccion.jpeg" width="60%">
+</p>
 
-### **2. Manipulación segura**  
-Evita contacto directo para proteger escamas, alas y estructuras frágiles.
+### **2. Manipulación segura**
+Manipulación mínima para evitar daños en alas, escamas y extremidades.
 
-### **3. Escaneo 3D con Creality Raptor**
-- Sensor infrarrojo  
-- Captura de malla + textura  
-- Alta precisión morfológica  
+---
 
-Fotos del proceso en `/photos/proceso_raptor`.
+### **3. Escaneo con Creality Raptor**
+
+<p align="center">
+  <img src="photos/proceso_raptor/raptor_1.jpeg" width="45%">
+  <img src="photos/proceso_raptor/raptor_2.jpeg" width="45%">
+</p>
+
+---
 
 ### **4. Fotogrametría + EDOF**
-- Captura del anverso y reverso
-- Integración de imágenes con profundidad extendida
-- Alineación de mallas y texturizado
+<p align="center">
+  <img src="photos/escaneos/escaneo_1.jpeg" width="45%">
+  <img src="photos/escaneos/escaneo_2.jpeg" width="45%">
+</p>
+
+---
 
 ### **5. Postprocesado**
 - Limpieza de geometría  
-- Reconstrucción final  
+- Fusión de mallas (anverso/reverso)  
 - Texturizado UV  
-- Exportación a `.obj` / `.stl`  
+- Exportación en `.obj` / `.stl`  
 
-Modelos finales en `/models`.
-
-### **6. Documentación**
-Informes, análisis y poster EntoScan disponibles en `/docs`.
+<p align="center">
+  <img src="photos/renders/render_1.jpeg" width="45%">
+  <img src="photos/renders/render_2.jpeg" width="45%">
+</p>
 
 ---
 
 ## 🦾 Resultados
 
-- 4 modelos 3D completos y texturizados.
-- Representaciones fieles en color y detalle anatómico.
-- Mallas optimizadas para visualización interactiva y experiencias AR.
+<p align="center">
+  <img src="photos/renders/modelos_finales.jpeg" width="75%">
+</p>
 
-Renders disponibles en `/photos/renders`.
+- 4 modelos completos y texturizados  
+- Captura fiel de color  
+- Representación anatómica detallada  
+- Modelos preparados para AR  
 
 ---
 
 ## 📱 Realidad aumentada (AR)
 
-Como proyección futura, EntoScan considera:
+<p align="center">
+  <img src="photos/ar/preview_ar.jpeg" width="60%">
+</p>
 
-- Visualización AR en dispositivos móviles.  
-- Modelos optimizados para WebAR.  
-- Rigging básico para explorar movimiento/anatomía.  
-- Integración de fichas descriptivas por especie.
+Se proyecta:
 
-Recursos AR en `/ar`.
+- Visualización en dispositivos móviles vía WebAR.  
+- Modelos optimizados para RA.  
+- Posible rigging básico para explorar estructuras móviles.  
+- Integración de fichas educativas y taxonómicas.  
+
+Archivos AR en `/ar`.
+
+---
+
+## 📁 Estructura del repositorio
+
 
 ---
 
