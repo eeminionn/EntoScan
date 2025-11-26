@@ -93,13 +93,6 @@ Referentes utilizados:
   </iframe>
 </p>
 
-
-
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ID_DEL_VIDEO" frameborder="0" allowfullscreen></iframe>
-</p>
-
-
 - Modelos anatómicos detallados  
 - Texturas fieles al espécimen  
 - Preparados para experiencias de AR  
